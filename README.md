@@ -683,7 +683,7 @@ Project structure based on the Data Science Project Template by Fefe Alves.
 Or, if you publish your project on GitHub:
 
 ```markdown
-This project was initialized from the [Data Science Project Template](<original-repository-url>) by Fefe Alves.
+This project was initialized from the [Data Science Project Template](<https://github.com/ffalves/data-science-project-template>) by Fefe Alves.
 ```
 
 Clone it, adapt it, improve it.
